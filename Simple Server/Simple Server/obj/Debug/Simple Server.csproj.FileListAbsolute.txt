@@ -1,0 +1,7 @@
+D:\gt\Semester 6\9. Praktikum Desain Game Multiplayer Online\Leder-Efter-Trial\Simple Server\Simple Server\bin\Debug\Simple Server.exe.config
+D:\gt\Semester 6\9. Praktikum Desain Game Multiplayer Online\Leder-Efter-Trial\Simple Server\Simple Server\bin\Debug\Simple Server.exe
+D:\gt\Semester 6\9. Praktikum Desain Game Multiplayer Online\Leder-Efter-Trial\Simple Server\Simple Server\bin\Debug\Simple Server.pdb
+D:\gt\Semester 6\9. Praktikum Desain Game Multiplayer Online\Leder-Efter-Trial\Simple Server\Simple Server\obj\Debug\Simple Server.csprojAssemblyReference.cache
+D:\gt\Semester 6\9. Praktikum Desain Game Multiplayer Online\Leder-Efter-Trial\Simple Server\Simple Server\obj\Debug\Simple Server.csproj.CoreCompileInputs.cache
+D:\gt\Semester 6\9. Praktikum Desain Game Multiplayer Online\Leder-Efter-Trial\Simple Server\Simple Server\obj\Debug\Simple Server.exe
+D:\gt\Semester 6\9. Praktikum Desain Game Multiplayer Online\Leder-Efter-Trial\Simple Server\Simple Server\obj\Debug\Simple Server.pdb
